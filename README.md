@@ -45,7 +45,7 @@ def cut_time(hour):
 2. train_test_split
 
 3. 분류 모델 구축
-- 종속변수의 특성에 따른 이진/다중 분류 모델 구축
+    - 종속변수의 특성에 따른 이진/다중 분류 모델 구축
 
 5. 데이터 증강 + 하이퍼파라미터 튜닝
     - LGBMClassifier, XGBoostClassifier, CatBoostClassifier 각각의 모델에 대한 최적의 파라미터 탐색     
